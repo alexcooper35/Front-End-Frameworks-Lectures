@@ -1,2 +1,8 @@
 # Front-End-Frameworks-Lectures
-Lecture notes chosen from the Front-end Frameworks course curriculum development for React and Angular
+
+Lecture notes chosen from 2020/2021 course curriculum development
+
+### Concepts covered:
+  - React
+  - Angular
+  - Serverless App Development
